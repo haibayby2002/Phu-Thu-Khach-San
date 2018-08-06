@@ -1,0 +1,11 @@
+D:\Quý Hải\Khóa học Sơn đẹp trai\Windows Form\Code\Chuong 6 - Radio - Checkbox - GroupBox\PhuThuKhachSan\obj\Debug\PhuThuKhachSan.csprojResolveAssemblyReference.cache
+D:\Quý Hải\Khóa học Sơn đẹp trai\Windows Form\Code\Chuong 6 - Radio - Checkbox - GroupBox\PhuThuKhachSan\obj\Debug\PhuThuKhachSan.frmMain.resources
+D:\Quý Hải\Khóa học Sơn đẹp trai\Windows Form\Code\Chuong 6 - Radio - Checkbox - GroupBox\PhuThuKhachSan\obj\Debug\PhuThuKhachSan.Properties.Resources.resources
+D:\Quý Hải\Khóa học Sơn đẹp trai\Windows Form\Code\Chuong 6 - Radio - Checkbox - GroupBox\PhuThuKhachSan\obj\Debug\PhuThuKhachSan.csproj.GenerateResource.Cache
+D:\Quý Hải\Khóa học Sơn đẹp trai\Windows Form\Code\Chuong 6 - Radio - Checkbox - GroupBox\PhuThuKhachSan\bin\Debug\PhuThuKhachSan.exe.config
+D:\Quý Hải\Khóa học Sơn đẹp trai\Windows Form\Code\Chuong 6 - Radio - Checkbox - GroupBox\PhuThuKhachSan\bin\Debug\PhuThuKhachSan.exe
+D:\Quý Hải\Khóa học Sơn đẹp trai\Windows Form\Code\Chuong 6 - Radio - Checkbox - GroupBox\PhuThuKhachSan\bin\Debug\PhuThuKhachSan.pdb
+D:\Quý Hải\Khóa học Sơn đẹp trai\Windows Form\Code\Chuong 6 - Radio - Checkbox - GroupBox\PhuThuKhachSan\obj\Debug\PhuThuKhachSan.exe
+D:\Quý Hải\Khóa học Sơn đẹp trai\Windows Form\Code\Chuong 6 - Radio - Checkbox - GroupBox\PhuThuKhachSan\obj\Debug\PhuThuKhachSan.pdb
+D:\Quý Hải\Khóa học Sơn đẹp trai\Windows Form\Code\Chuong 6 - Radio - Checkbox - GroupBox\PhuThuKhachSan\obj\Debug\PhuThuKhachSan.HangHoaControl.resources
+D:\Quý Hải\Khóa học Sơn đẹp trai\Windows Form\Code\Chuong 6 - Radio - Checkbox - GroupBox\PhuThuKhachSan\obj\Debug\PhuThuKhachSan.LabelImage.resources
